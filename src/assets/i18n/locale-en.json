@@ -1,7 +1,11 @@
 {
     "APP": {
-        "NAME": "Material color",
-        "SUBNAME": "tool"
+        "NAME": "Dev Designer Tool",
+        "SUBNAME": {
+            "1": "Made with",
+            "HEART": "♥",
+            "2": "in India"
+        }
     },
     "MAIN": {
         "TABS": {
@@ -10,6 +14,13 @@
             "ICON": "Icons",
             "PALLETE": "Pallete",
             "TEMPLATES": "Templates"
+        }
+    },
+    "ICONS": {
+        "ICONS_LIST": {
+            "GROUP": {
+                "BY": "by"
+            }
         }
     }
 }

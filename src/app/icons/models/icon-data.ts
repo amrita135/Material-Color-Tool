@@ -12,3 +12,11 @@ export class IconsProperty {
     name: string;
     keywords: Array<string>;
 }
+
+export class IconsList {
+    name: string;
+    desc: string;
+    author: string;
+    icon: string;
+    for: string;
+}
